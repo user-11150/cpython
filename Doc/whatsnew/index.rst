@@ -4,7 +4,7 @@
  What's New in Python
 ######################
 
-The "What's New in Python" series of essays takes tours through the most
+The "What's New in Python" series of easys takes tours through the most
 important changes between major Python versions.  They are a "must read" for
 anyone wishing to stay up-to-date after a new release.
 
